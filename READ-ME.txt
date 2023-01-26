@@ -1,4 +1,3 @@
-  =>  https://fluffy-dusk-582f23.netlify.app/
   
   
   =>  Template Name    : EShopper - Bootstrap Shop Template
